@@ -4,6 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 
@@ -22,13 +23,17 @@ import java.util.Map;
 
 public class PopolarActivity extends AppCompatActivity {
     public static ListView listView;
+
+    int icon[]={R.drawable.no1,R.drawable.no2,R.drawable.no3,R.drawable.no4,R.drawable.no5,};
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_popolar);
 
         listView=(ListView)findViewById(R.id.listviewJsonData);
-        String url = "http://172.17.135.108:8181/api/product";
+
+        String url = "http://172.17.135.108:8181/api/populer_sort";
         getData(url);
     }
     public String getData(String urlString){
@@ -76,6 +81,7 @@ public class PopolarActivity extends AppCompatActivity {
                 new String[]{"name"},
                 new int[]{R.id.txt_name}
         );
-        listView.setAdapter(adapter);
+
+        //listView.setAdapter(new extend_PopularActivity(PopolarActivity.this,icon,list));
     }
 }

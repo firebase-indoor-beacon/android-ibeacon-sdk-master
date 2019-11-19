@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".PopolarActivity">
+    
     <ImageView
         android:background="@drawable/hotranking"
         android:layout_width="match_parent"
@@ -13,6 +14,7 @@
     <ListView
         android:id="@+id/listviewJsonData"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"></ListView>
+        android:layout_height="match_parent"
+        ></ListView>
 
 </LinearLayout>
