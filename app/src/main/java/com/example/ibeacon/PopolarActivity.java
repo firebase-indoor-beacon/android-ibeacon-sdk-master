@@ -28,7 +28,7 @@ public class PopolarActivity extends AppCompatActivity {
         setContentView(R.layout.activity_popolar);
 
         listView=(ListView)findViewById(R.id.listviewJsonData);
-        String url = "http://192.168.50.177:8080/api/product";
+        String url = "http://172.17.135.108:8181/api/product";
         getData(url);
     }
     public String getData(String urlString){

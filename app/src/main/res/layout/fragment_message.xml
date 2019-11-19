@@ -1,12 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent" android:layout_height="match_parent"
-    android:background="@android:color/holo_blue_light">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Beacon Fragment"
-        android:textSize="30sp"
-        android:layout_centerInParent="true"/>
+    <ImageView
+        android:background="@drawable/home"
+        android:layout_width="match_parent"
+        android:layout_height="240dp" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="3dp" >
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:background="#F3F0F0"
+            android:layout_weight="2"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" >
+            <LinearLayout
+
+                android:gravity="center_horizontal"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:orientation="vertical"
+                android:layout_height="match_parent">
+
+                <ImageButton
+                    android:id="@+id/ranking_show"
+                    android:layout_width="160dp"
+                    android:layout_height="160dp"
+                    android:layout_marginTop="30dp"
+                    android:background="@android:color/white"
+                    android:src="@drawable/ranking" />
+
+
+                <ImageButton
+                    android:id="@+id/article_show"
+                    android:layout_width="160dp"
+                    android:layout_height="160dp"
+                    android:layout_marginTop="70dp"
+                    android:background="@android:color/white"
+                    android:src="@drawable/article" />
+            </LinearLayout>
+            <LinearLayout
+                android:gravity="center_horizontal"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:orientation="vertical"
+                android:layout_height="match_parent">
+
+                <ImageButton
+                    android:id="@+id/found_show"
+                    android:layout_width="160dp"
+                    android:layout_height="160dp"
+                    android:layout_marginTop="30dp"
+                    android:background="@android:color/white"
+                    android:src="@drawable/found" />
+                <ImageView
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:layout_marginTop="60dp"
+                    android:src="@drawable/go" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
 </RelativeLayout>

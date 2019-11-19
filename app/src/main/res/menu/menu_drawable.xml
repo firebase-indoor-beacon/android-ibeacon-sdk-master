@@ -12,6 +12,14 @@
             android:id="@+id/nav_Popular"
             android:icon="@drawable/ic_popular"
             android:title="Popular" />
+        <item
+            android:id="@+id/nav_pttarticle"
+            android:icon="@drawable/ic_pttarticle"
+            android:title="PTT" />
+        <item
+            android:id="@+id/nav_sale"
+            android:icon="@drawable/ic_sale"
+            android:title="found" />
     </group>
 
 </menu>

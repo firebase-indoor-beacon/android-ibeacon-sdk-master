@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                     new MessageFragment()).commit();
             navigationView.setCheckedItem(R.id.nav_beacon);
         }
-        String url = "http://192.168.50.177:8080/api/populer_sort";
+        String url = "http://172.17.135.108:8181/api/product";
         getData(url);
     }
 
@@ -74,6 +74,14 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                         new PopularFragment()).commit();
                 Intent populer_Intent = new Intent(this,PopolarActivity.class);
                 this.startActivity(populer_Intent);
+                break;
+            case R.id.nav_pttarticle:
+                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,
+                        new PttarticleFragment()).commit();
+                break;
+            case R.id.nav_sale:
+                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,
+                        new SaleFragment()).commit();
                 break;
 
         }
