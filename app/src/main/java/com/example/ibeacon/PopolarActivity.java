@@ -81,7 +81,7 @@ public class PopolarActivity extends AppCompatActivity {
                 new String[]{"name"},
                 new int[]{R.id.txt_name}
         );
-
-        //listView.setAdapter(new extend_PopularActivity(PopolarActivity.this,icon,list));
+        listView.setAdapter(adapter);
+        //listView.setAdapter(new extend_PopularActivity(PopolarActivity.this,icon));
     }
 }

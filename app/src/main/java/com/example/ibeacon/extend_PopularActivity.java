@@ -20,7 +20,7 @@ public class extend_PopularActivity extends BaseAdapter {
 
     Context context;
 
-    public extend_PopularActivity(Context context, int icons[], ArrayList<Map<String,Object>> list){
+    public extend_PopularActivity(Context context, int icons[]){
         this.context=context;
         this.icons=icons;
 

@@ -1,67 +1,67 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:1:1-24:12
-INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:1:1-24:12
-INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:1:1-24:12
-INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:1:1-24:12
-INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:1:1-24:12
-INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:1:1-24:12
-INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:1:1-24:12
+ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:1:1-24:12
 	package
-		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:2:5-41
-		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:2:5-41
+		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:4:5-32
-		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:1:11-69
 	android:versionCode
-		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:3:5-28
-		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:6:5-67
+ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:6:22-65
+		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:6:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:7:5-73
+ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:7:5-73
 	android:name
-		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:7:22-71
+		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:7:22-71
 application
-ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:9:5-22:19
+ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:9:5-22:19
 	android:allowBackup
-		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:10:9-35
 service#com.radiusnetworks.ibeacon.service.IBeaconService
-ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:11:5-16:15
+ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:11:5-16:15
 	android:enabled
-		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:11:14-36
+		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:11:14-36
 	android:label
-		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:14:9-32
+		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:14:9-32
 	android:exported
-		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:12:9-32
+		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:12:9-32
 	android:isolatedProcess
-		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:13:9-40
+		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:13:9-40
 	android:name
-		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:15:9-73
+		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:15:9-73
 service#com.radiusnetworks.ibeacon.IBeaconIntentProcessor
-ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:18:5-20:15
+ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:18:5-20:15
 	android:enabled
-		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:18:14-36
+		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:18:14-36
 	android:name
-		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml:19:9-73
+		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml:19:9-73
 uses-sdk
-INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml
-INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml
-INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml
-INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml
-		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml
-		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master\androidibeaconservice\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DBIS\AndroidStudioProjects\android-ibeacon-sdk-master2\androidibeaconservice\src\main\AndroidManifest.xml
